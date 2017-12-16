@@ -64,7 +64,7 @@ const scrapPage = async (offset) => {
   return { offset: values.length, pageResults }
 }
 
-const LIMIT = 100;
+const LIMIT = 1000;
 
 const scrap = async () => {
   const results = [];
