@@ -24,11 +24,16 @@ const getPackageDescription = async packageName => {
   const response = await got(`https://registry.npmjs.org/${packageName}`);
   const packageJson = JSON.parse(response.body);
   const repo = packageJson.repository.url;
+  let desc = packageJson.description;
   if (isGihubRepo(repo)) {
-    return await getGithubDescription(repo);
+    const ghDescr = await getGithubDescription(repo);
+    if (ghDescr.length > desc.length) {
+      desc = ghDescr;
+    }
   } else {
     console.log(`${packageName} invalid repo url ${repo}`);
   }
+  return desc;
 }
 
 const scrapPage = async (offset) => {
