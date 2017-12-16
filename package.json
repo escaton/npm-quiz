@@ -1,0 +1,15 @@
+{
+  "name": "npm_quiz",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "cheerio": "^1.0.0-rc.2",
+    "got": "^8.0.1",
+    "inquirer": "^4.0.1",
+    "lodash": "^4.17.4",
+    "pick-random": "^2.0.0",
+    "progress": "^2.0.0"
+  }
+}

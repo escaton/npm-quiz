@@ -1,0 +1,672 @@
+[
+  {
+    "name": "lodash",
+    "position": 0,
+    "description": "A modern JavaScript utility library delivering modularity, performance, & extras."
+  },
+  {
+    "name": "request",
+    "position": 1,
+    "description": "🏊🏾 Simplified HTTP request client."
+  },
+  {
+    "name": "async",
+    "position": 2,
+    "description": "Async utilities for node and the browser"
+  },
+  {
+    "name": "chalk",
+    "position": 3,
+    "description": "🖍 Terminal string styling done right"
+  },
+  {
+    "name": "express",
+    "position": 4,
+    "description": "Fast, unopinionated, minimalist web framework for node."
+  },
+  {
+    "name": "bluebird",
+    "position": 5,
+    "description": "🐦 ⚡️ Bluebird is a full featured promise library with unmatched performance."
+  },
+  {
+    "name": "commander",
+    "position": 6,
+    "description": "node.js command-line interfaces made easy"
+  },
+  {
+    "name": "react",
+    "position": 7,
+    "description": "A declarative, efficient, and flexible JavaScript library for building user interfaces."
+  },
+  {
+    "name": "debug",
+    "position": 8,
+    "description": "A tiny JavaScript debugging utility modelled after Node.js core's debugging technique. Works in Node.js and web browsers"
+  },
+  {
+    "name": "moment",
+    "position": 9,
+    "description": "Parse, validate, manipulate, and display dates in javascript."
+  },
+  {
+    "name": "underscore",
+    "position": 10,
+    "description": "JavaScript's utility _ belt"
+  },
+  {
+    "name": "react-dom",
+    "position": 11,
+    "description": "A declarative, efficient, and flexible JavaScript library for building user interfaces."
+  },
+  {
+    "name": "mkdirp",
+    "position": 12,
+    "description": "Recursively mkdir, like `mkdir -p`, but in node.js"
+  },
+  {
+    "name": "fs-extra",
+    "position": 13,
+    "description": "Node.js: extra methods for the fs object like copy(), remove(), mkdirs()"
+  },
+  {
+    "name": "colors",
+    "position": 14,
+    "description": "get colors in your node.js console"
+  },
+  {
+    "name": "babel-runtime",
+    "position": 15,
+    "description": ""
+  },
+  {
+    "name": "prop-types",
+    "position": 16,
+    "description": "Runtime type checking for React props and similar objects"
+  },
+  {
+    "name": "glob",
+    "position": 17,
+    "description": "glob functionality for node.js"
+  },
+  {
+    "name": "body-parser",
+    "position": 18,
+    "description": "Node.js body parsing middleware"
+  },
+  {
+    "name": "minimist",
+    "position": 19,
+    "description": "parse argument options"
+  },
+  {
+    "name": "through2",
+    "position": 20,
+    "description": "Tiny wrapper around Node streams2 Transform to avoid explicit subclassing noise"
+  },
+  {
+    "name": "jquery",
+    "position": 21,
+    "description": "jQuery JavaScript Library"
+  },
+  {
+    "name": "q",
+    "position": 22,
+    "description": "A promise library for JavaScript"
+  },
+  {
+    "name": "yeoman-generator",
+    "position": 23,
+    "description": "Rails-inspired generator system that provides scaffolding for your apps"
+  },
+  {
+    "name": "classnames",
+    "position": 24,
+    "description": "A simple javascript utility for conditionally joining classNames together"
+  },
+  {
+    "name": "yargs",
+    "position": 25,
+    "description": "yargs the modern, pirate-themed successor to optimist."
+  },
+  {
+    "name": "uuid",
+    "position": 26,
+    "description": "Generate RFC-compliant UUIDs in JavaScript"
+  },
+  {
+    "name": "babel-core",
+    "position": 27,
+    "description": ""
+  },
+  {
+    "name": "gulp-util",
+    "position": 28,
+    "description": "Utilities for gulp plugins"
+  },
+  {
+    "name": "cheerio",
+    "position": 29,
+    "description": "Fast, flexible, and lean implementation of core jQuery designed specifically for the server."
+  },
+  {
+    "name": "webpack",
+    "position": 30,
+    "description": "A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows to load parts for the application on demand. Through \"loaders,\" modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff."
+  },
+  {
+    "name": "rxjs",
+    "position": 31,
+    "description": "A reactive programming library for JavaScript"
+  },
+  {
+    "name": "winston",
+    "position": 32,
+    "description": "A logger for just about everything."
+  },
+  {
+    "name": "gulp",
+    "position": 33,
+    "description": "The streaming build system"
+  },
+  {
+    "name": "inquirer",
+    "position": 34,
+    "description": "A collection of common interactive command line user interfaces."
+  },
+  {
+    "name": "aws-sdk",
+    "position": 35,
+    "description": "AWS SDK for JavaScript in the browser and Node.js"
+  },
+  {
+    "name": "babel-preset-es2015",
+    "position": 36,
+    "description": ""
+  },
+  {
+    "name": "semver",
+    "position": 37,
+    "description": "The semver parser for node (the one npm uses)"
+  },
+  {
+    "name": "coffee-script",
+    "position": 38,
+    "description": "Unfancy JavaScript"
+  },
+  {
+    "name": "object-assign",
+    "position": 39,
+    "description": "ES2015 Object.assign() ponyfill"
+  },
+  {
+    "name": "rimraf",
+    "position": 40,
+    "description": "A `rm -rf` util for nodejs"
+  },
+  {
+    "name": "redux",
+    "position": 41,
+    "description": "Predictable state container for JavaScript apps"
+  },
+  {
+    "name": "axios",
+    "position": 42,
+    "description": "Promise based HTTP client for the browser and node.js"
+  },
+  {
+    "name": "yosay",
+    "position": 43,
+    "description": "Tell Yeoman what to say"
+  },
+  {
+    "name": "shelljs",
+    "position": 44,
+    "description": "🐚 Portable Unix shell commands for Node.js"
+  },
+  {
+    "name": "babel-loader",
+    "position": 46,
+    "description": "Webpack plugin for Babel"
+  },
+  {
+    "name": "mocha",
+    "position": 47,
+    "description": "☕️ simple, flexible, fun javascript test framework for node.js & the browser"
+  },
+  {
+    "name": "superagent",
+    "position": 48,
+    "description": "Ajax with less suck - (and node.js HTTP client to match)"
+  },
+  {
+    "name": "babel-polyfill",
+    "position": 49,
+    "description": ""
+  },
+  {
+    "name": "js-yaml",
+    "position": 50,
+    "description": "JavaScript YAML parser and dumper. Very fast."
+  },
+  {
+    "name": "mongoose",
+    "position": 51,
+    "description": "MongoDB object modeling designed to work in an asynchronous environment."
+  },
+  {
+    "name": "mongodb",
+    "position": 52,
+    "description": "Mongo DB Native NodeJS Driver"
+  },
+  {
+    "name": "ember-cli-babel",
+    "position": 53,
+    "description": "Ember CLI plugin for Babel"
+  },
+  {
+    "name": "redis",
+    "position": 54,
+    "description": "redis client for node"
+  },
+  {
+    "name": "socket.io",
+    "position": 55,
+    "description": "Realtime application framework (Node.JS server)"
+  },
+  {
+    "name": "node-uuid",
+    "position": 56,
+    "description": "Generate RFC-compliant UUIDs in JavaScript"
+  },
+  {
+    "name": "handlebars",
+    "position": 57,
+    "description": ""
+  },
+  {
+    "name": "core-js",
+    "position": 58,
+    "description": "Standard Library"
+  },
+  {
+    "name": "zone.js",
+    "position": 59,
+    "description": "Implements Zones for JavaScript"
+  },
+  {
+    "name": "eslint",
+    "position": 60,
+    "description": "A fully pluggable tool for identifying and reporting on patterns in JavaScript."
+  },
+  {
+    "name": "co",
+    "position": 61,
+    "description": "The ultimate generator based flow-control goodness for nodejs (supports thunks, promises, etc)"
+  },
+  {
+    "name": "react-redux",
+    "position": 63,
+    "description": "Official React bindings for Redux"
+  },
+  {
+    "name": "optimist",
+    "position": 64,
+    "description": "Light-weight option parsing for node.js"
+  },
+  {
+    "name": "ramda",
+    "position": 65,
+    "description": "🐏 Practical functional Javascript"
+  },
+  {
+    "name": "css-loader",
+    "position": 66,
+    "description": "css loader module for webpack"
+  },
+  {
+    "name": "xml2js",
+    "position": 67,
+    "description": "XML to JavaScript object converter."
+  },
+  {
+    "name": "chai",
+    "position": 68,
+    "description": "BDD / TDD assertion framework for node.js and the browser that can be paired with any testing framework."
+  },
+  {
+    "name": "joi",
+    "position": 69,
+    "description": "Object schema validation"
+  },
+  {
+    "name": "ejs",
+    "position": 70,
+    "description": "Embedded JavaScript templates -- http://ejs.co"
+  },
+  {
+    "name": "request-promise",
+    "position": 71,
+    "description": "The simplified HTTP request client 'request' with Promise support. Powered by Bluebird."
+  },
+  {
+    "name": "ejs",
+    "position": 70,
+    "description": "Embedded JavaScript templates -- http://ejs.co"
+  },
+  {
+    "name": "request-promise",
+    "position": 71,
+    "description": "The simplified HTTP request client 'request' with Promise support. Powered by Bluebird."
+  },
+  {
+    "name": "style-loader",
+    "position": 72,
+    "description": "style loader module for webpack"
+  },
+  {
+    "name": "dotenv",
+    "position": 74,
+    "description": "Loads environment variables from .env for nodejs projects."
+  },
+  {
+    "name": "immutable",
+    "position": 75,
+    "description": "Immutable persistent data collections for Javascript which increase efficiency and simplicity."
+  },
+  {
+    "name": "morgan",
+    "position": 76,
+    "description": "HTTP request logger middleware for node.js"
+  },
+  {
+    "name": "extend",
+    "position": 78,
+    "description": "Simple function to extend objects"
+  },
+  {
+    "name": "vue",
+    "position": 79,
+    "description": "A progressive, incrementally-adoptable JavaScript framework for building UI on the web."
+  },
+  {
+    "name": "babel-preset-react",
+    "position": 80,
+    "description": ""
+  },
+  {
+    "name": "cookie-parser",
+    "position": 81,
+    "description": "cookie parsing middleware"
+  },
+  {
+    "name": "babel-eslint",
+    "position": 83,
+    "description": "🗼 ESLint using Babel as the parser."
+  },
+  {
+    "name": "angular",
+    "position": 84,
+    "description": "AngularJS - HTML enhanced for web apps!"
+  },
+  {
+    "name": "promise",
+    "position": 85,
+    "description": "Bare bones Promises/A+ implementation"
+  },
+  {
+    "name": "file-loader",
+    "position": 88,
+    "description": "file loader for webpack"
+  },
+  {
+    "name": "path",
+    "position": 89,
+    "description": "NodeJS 'path' module"
+  },
+  {
+    "name": "mime",
+    "position": 90,
+    "description": "Mime types for JavaScript"
+  },
+  {
+    "name": "ws",
+    "position": 91,
+    "description": "Simple to use, blazing fast and thoroughly tested WebSocket client and server for Node.js"
+  },
+  {
+    "name": "uglify-js",
+    "position": 92,
+    "description": "JavaScript parser / mangler / compressor / beautifier toolkit"
+  },
+  {
+    "name": "jade",
+    "position": 93,
+    "description": "Pug – robust, elegant, feature rich template engine for Node.js"
+  },
+  {
+    "name": "marked",
+    "position": 94,
+    "description": "A markdown parser and compiler. Built for speed."
+  },
+  {
+    "name": "nan",
+    "position": 95,
+    "description": "Native Abstractions for Node.js"
+  },
+  {
+    "name": "es6-promise",
+    "position": 96,
+    "description": "A polyfill for ES6-style Promises"
+  },
+  {
+    "name": "mysql",
+    "position": 97,
+    "description": "A pure node.js JavaScript Client implementing the MySql protocol."
+  },
+  {
+    "name": "typescript",
+    "position": 100,
+    "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output."
+  },
+  {
+    "name": "extract-text-webpack-plugin",
+    "position": 101,
+    "description": "Extract text from bundle into a file."
+  },
+  {
+    "name": "react-router",
+    "position": 102,
+    "description": "Declarative routing for React"
+  },
+  {
+    "name": "eslint-plugin-react",
+    "position": 103,
+    "description": "React specific linting rules for ESLint"
+  },
+  {
+    "name": "autoprefixer",
+    "position": 104,
+    "description": "Parse CSS and add vendor prefixes to rules by Can I Use"
+  },
+  {
+    "name": "bootstrap",
+    "position": 105,
+    "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web."
+  },
+  {
+    "name": "typescript",
+    "position": 100,
+    "description": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output."
+  },
+  {
+    "name": "extract-text-webpack-plugin",
+    "position": 101,
+    "description": "Extract text from bundle into a file."
+  },
+  {
+    "name": "react-router",
+    "position": 102,
+    "description": "Declarative routing for React"
+  },
+  {
+    "name": "eslint-plugin-react",
+    "position": 103,
+    "description": "React specific linting rules for ESLint"
+  },
+  {
+    "name": "autoprefixer",
+    "position": 104,
+    "description": "Parse CSS and add vendor prefixes to rules by Can I Use"
+  },
+  {
+    "name": "bootstrap",
+    "position": 105,
+    "description": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web."
+  },
+  {
+    "name": "node-sass",
+    "position": 106,
+    "description": "🌈 Node.js bindings to libsass"
+  },
+  {
+    "name": "jsonwebtoken",
+    "position": 107,
+    "description": "JsonWebToken implementation for node.js http://self-issued.info/docs/draft-ietf-oauth-json-web-token.html"
+  },
+  {
+    "name": "eslint-plugin-import",
+    "position": 108,
+    "description": "ESLint plugin with rules that help validate proper imports."
+  },
+  {
+    "name": "babel-cli",
+    "position": 109,
+    "description": ""
+  },
+  {
+    "name": "url-loader",
+    "position": 110,
+    "description": "url loader module for webpack"
+  },
+  {
+    "name": "underscore.string",
+    "position": 111,
+    "description": "String manipulation helpers for javascript"
+  },
+  {
+    "name": "qs",
+    "position": 112,
+    "description": "A querystring parser with nesting support"
+  },
+  {
+    "name": "postcss",
+    "position": 113,
+    "description": "Transforming styles with JS plugins"
+  },
+  {
+    "name": "webpack-dev-server",
+    "position": 114,
+    "description": "Serves a webpack app. Updates the browser on changes."
+  },
+  {
+    "name": "chokidar",
+    "position": 115,
+    "description": "A neat wrapper around node.js fs.watch / fs.watchFile / fsevents."
+  },
+  {
+    "name": "node-fetch",
+    "position": 116,
+    "description": "A light-weight module that brings window.fetch to Node.js"
+  },
+  {
+    "name": "meow",
+    "position": 117,
+    "description": "CLI app helper"
+  },
+  {
+    "name": "browserify",
+    "position": 118,
+    "description": "browser-side require() the node.js way"
+  },
+  {
+    "name": "less",
+    "position": 119,
+    "description": "Less. The dynamic stylesheet language."
+  },
+  {
+    "name": "minimatch",
+    "position": 120,
+    "description": "a glob matcher in javascript"
+  },
+  {
+    "name": "bunyan",
+    "position": 121,
+    "description": "a simple and fast JSON logging module for node.js services"
+  },
+  {
+    "name": "compression",
+    "position": 122,
+    "description": "Node.js compression middleware"
+  },
+  {
+    "name": "isomorphic-fetch",
+    "position": 123,
+    "description": "Isomorphic WHATWG Fetch API, for Node & Browserify"
+  },
+  {
+    "name": "whatwg-fetch",
+    "position": 124,
+    "description": "A window.fetch JavaScript polyfill."
+  },
+  {
+    "name": "prompt",
+    "position": 125,
+    "description": "a beautiful command-line prompt for node.js"
+  },
+  {
+    "name": "xtend",
+    "position": 126,
+    "description": "extend like a boss"
+  },
+  {
+    "name": "html-webpack-plugin",
+    "position": 127,
+    "description": "Simplifies creation of HTML files to serve your webpack bundles"
+  },
+  {
+    "name": "postcss-loader",
+    "position": 128,
+    "description": "PostCSS loader for webpack"
+  },
+  {
+    "name": "loader-utils",
+    "position": 129,
+    "description": "utils for webpack loaders"
+  },
+  {
+    "name": "gulp-rename",
+    "position": 130,
+    "description": "Rename files easily"
+  },
+  {
+    "name": "grunt",
+    "position": 131,
+    "description": "Grunt: The JavaScript Task Runner"
+  },
+  {
+    "name": "cors",
+    "position": 132,
+    "description": "Node.js CORS middleware"
+  },
+  {
+    "name": "fs",
+    "position": 133,
+    "description": "An npm package that holds a spot."
+  },
+  {
+    "name": "del",
+    "position": 134,
+    "description": "Delete files and directories"
+  }
+]
